@@ -1,1 +1,1 @@
-Este é um editor de texto via terminal, não se preocupe em entender, foque na explicação do git.
+Este é um editor de texto via terminal, não se preocupe em entender, foque na explicação do git;
